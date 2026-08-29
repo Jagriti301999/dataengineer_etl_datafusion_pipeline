@@ -21,3 +21,7 @@ The project aims to perform the following tasks:
 4. Airflow/Composer
 5. Bigquery
 6. Looker Studio
+
+**ARCHITECTURE**
+<img width="701" height="596" alt="Architecture" src="https://github.com/user-attachments/assets/f287ffab-e6be-4c52-ba3d-e2309234d146" />
+
